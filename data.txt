@@ -1,0 +1,10 @@
+PINK: 255, 0, 255
+BLUE: 0, 255, 255
+YELLOW: 255, 255, 0
+GREEN: 0, 255, 0
+RED: 255, 0, 0
+GREY: 192, 192, 192
+
+Point size: 50x50 pixels
+Spaces: 10 pixels
+Space between sample and field: 70 pixels

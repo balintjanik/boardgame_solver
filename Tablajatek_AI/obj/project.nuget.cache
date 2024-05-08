@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOWYSbKj0ibB9miIQkbz3vK+pgkOOlMWqfV5XW7f+uCSaiExu6CwJe/4pS76clNcs+ktu0tT0qkP4zVtAL3ufw==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\3_FreeTimeCoding\\Tablajatek_AI\\Tablajatek_AI\\Tablajatek_AI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janikbalint\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\janikbalint\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
